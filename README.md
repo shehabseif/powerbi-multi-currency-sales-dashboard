@@ -1,5 +1,3 @@
-# powerbi-multi-currency-sales-dashboard
-A Power BI practice dashboard demonstrating KPI tracking, time-based comparisons, and dynamic currency selection.
 # Power BI Multi-Currency Sales Dashboard (Practice Project)
 
 This is a Power BI practice dashboard built to demonstrate core BI skills such as data cleaning, basic modeling, DAX measures, and interactive filtering.
@@ -8,9 +6,9 @@ This is a Power BI practice dashboard built to demonstrate core BI skills such a
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/dashboard%201-2.JPG)
+![Dashboard Overview](Images/dashboard%201-2.JPG)
 
-![Map and Table View](images/dashboard%202-2.JPG)
+![Map and Table View](Images/dashboard%202-2.JPG)
 
 
 ---
